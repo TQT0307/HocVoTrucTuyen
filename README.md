@@ -1,1 +1,4 @@
 # HocVoTrucTuyen
+Đây là web học võ Vovinam trực tiếp dành cho mọi lứa tuổi, nếu môn sinh từ dưới 10 tuổi thì khi học online với huấn luyện viên phỉa có phụ huynh giám sát theo. Web học võ giúp cho người dùng ở bất cứ nơi nào cũng đều có thể theo học huấn luyện viên mà mình mong muốn. Các khóa học sẽ kết thúc tùy theo cấp bậc của mỗi người, kết thúc khóa học, nếu người dùng muốn thi thăng cấp bậc có thể đang kí, web sẽ giúp người dùng lựa chọn địa điểm phù hợp với nơi ở để có thể đến thi trực tiếp
+Các Huấn luyện viên khi đăng kí giảng dạy trên web sẽ phỉa chứng minh được bằng cấp, giấy chứng nhận huấn luyện viên, cấp bậc đủ để giảng dạy
+Web sẽ có điểm danh theo từng buổi học, khi đăng kí học, người dùng sẽ đóng tiền thông qua chuyển khoản. Nếu trong quá rtrinhf học, học viên muốn kết thúc khóa học sớm thì có thể nhận lại được số tiền còn lại thông qua số buổi học đã được điểm danh
